@@ -12,5 +12,8 @@ This project features a powerful model designed to automatically remove the back
 * The U-NET architecture is credited to Olaf Ronneberger, Philipp Fischer, and Thomas Brox, as presented in their paper "U-Net: Convolutional Networks for Biomedical Image Segmentation" (https://arxiv.org/abs/1505.04597).
 * The One Cycle Policy was introduced by Leslie N. Smith and Nicholay Topin in their paper "Super-Convergence: Very Fast Training of Neural Networks Using Large Learning Rates" (https://arxiv.org/abs/1708.07120).
 
+# Dataset  
+Brian Shaler, DanGill, Maggie, Mark McDonald, Patricia, Will Cukierski. (2017). Carvana Image Masking Challenge. Kaggle. https://kaggle.com/competitions/carvana-image-masking-challenge
+
 # Author
 - Alvaro Eduardo Torres Velasco
